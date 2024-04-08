@@ -7,9 +7,9 @@ Version: v0.1 (06/2013)
 Author: Rui Ponte Costa (rui.costa@dpag.ox.ac.uk)
 <hr>
 
-<p>
+<b>
 Paper: [https://doi.org/10.3389/fncom.2013.00075](https://doi.org/10.3389/fncom.2013.00075)
-</p>
+</b>
 
 >> How to install:
 
