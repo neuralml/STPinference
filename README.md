@@ -8,7 +8,7 @@ Author: Rui Ponte Costa (rui.costa@dpag.ox.ac.uk)
 <hr>
 
 <p>
-<b>Paper: [https://doi.org/10.3389/fncom.2013.00075](https://doi.org/10.3389/fncom.2013.00075)</b>
+Paper: [https://doi.org/10.3389/fncom.2013.00075](https://doi.org/10.3389/fncom.2013.00075)
 </p>
 
 >> How to install:
