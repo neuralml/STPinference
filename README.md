@@ -1,6 +1,6 @@
 <html><pre>
 <hr>
-<b>Probabilistic Inference of Short-term Synaptic Plasticity - inference code<b>
+<b>Probabilistic Inference of Short-term Synaptic Plasticity - inference code</b>b>
 Model: Tsodyks-Markram (2-4 parameters)
 
 Version: v0.1 (06/2013)
