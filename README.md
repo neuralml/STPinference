@@ -1,9 +1,8 @@
 
 **Probabilistic Inference of Short-term Synaptic Plasticity - inference code**
+<br><b>Paper: https://doi.org/10.3389/fncom.2013.00075</b>
 <br>Model: Tsodyks-Markram (2-4 parameters)
-<br><b>
-Paper: https://doi.org/10.3389/fncom.2013.00075
-</b>
+
 <br>Version: v0.1 (06/2013)
 <br>Author: Rui Ponte Costa (rui.costa@dpag.ox.ac.uk)
 <hr>
