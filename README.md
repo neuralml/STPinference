@@ -4,7 +4,7 @@
 *  Model: Tsodyks-Markram (2-4 parameters)				       *
 *									       *
 *  Version: v0.1 (06/2013)						       *
-*  Author: Rui P. Costa (rui.costa@ed.ac.uk)				       *
+*  Author: Rui Ponte Costa (rui.costa@dpag.ox.ac.uk)				       *
 *  Paper link: https://frontiersin.org/articles/10.3389/fncom.2013.00075    *
 ********************************************************************************
 
